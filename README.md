@@ -1,38 +1,35 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
-
-
 ## 💻 Projeto
 
-ignite-reactjs-03-dt-money
+React-dt-money
 
-## 📝 Licença
+## Rodando localmente
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Clone o projeto
 
----
+```bash
+  git clone https://github.com/fbcavalheiro/React-dt-money.git
+```
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+Entre no diretório do projeto
 
+```bash
+  cd React-dt-money
+```
 
-<!--START_SECTION:footer-->
+Instale as dependências
 
-<br />
-<br />
+```bash
+  npm install
+```
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+Inicie o servidor
 
-<!--END_SECTION:footer-->
+```bash
+  npm run dev
+```
 
+Inicie o JSON-SERVER
+
+```bash
+  npm run dev:server
+```
