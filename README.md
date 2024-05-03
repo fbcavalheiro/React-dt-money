@@ -2,6 +2,10 @@
 
 React-dt-money
 
+Nesse projeto foi desenvolvido um controle financeiro onde é possível realizar entrada
+e saída de valore e filtrar o dado que desejar. Foram utilizados tecnologias como React Hook Form, Axios para conectar uma API JSON-Server e tambem foram usados os hooks 
+useMemo e useCallback para melhorar a performance.
+
 ## Rodando localmente
 
 Clone o projeto
